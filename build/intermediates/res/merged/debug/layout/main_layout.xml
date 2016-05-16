@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout android:id="@+id/relativeLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+    <cc.openframeworks.OFGLSurfaceView android:id="@+id/of_gl_surface"
+ 		android:layout_width="fill_parent"
+ 		android:layout_height="fill_parent"
+        android:layout_below="@+id/testo" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/testo"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <!-- add here other views' layouts -->
+    </RelativeLayout>
+<!-- From: file:/home/kashim/of_0.9.1_android/of_v0.9.1RC1_android_release/apps/myApps/keyboard/res/layout/main_layout.xml -->

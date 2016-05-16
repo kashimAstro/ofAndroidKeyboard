@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kashim/of_0.9.1_android/of_v0.9.1RC1_android_release/apps/myApps/keyboard/build/intermediates/exploded-aar/keyboard/ofAndroidLib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="784038c1cd5ed4a761cc66c22327e91e783677df">
+        <dex dex="/home/kashim/of_0.9.1_android/of_v0.9.1RC1_android_release/apps/myApps/keyboard/build/intermediates/pre-dexed/debug/classes-a7d6188e0711d6ae8251b940b0e2f00e831363be.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/home/kashim/of_0.9.1_android/of_v0.9.1RC1_android_release/apps/myApps/keyboard/build/intermediates/exploded-aar/keyboard/ofAndroidLib/unspecified/assets"/></dataSet><dataSet config="main"><source path="/home/kashim/of_0.9.1_android/of_v0.9.1RC1_android_release/apps/myApps/keyboard/assets"/></dataSet><dataSet config="debug"><source path="/home/kashim/of_0.9.1_android/of_v0.9.1RC1_android_release/apps/myApps/keyboard/src/debug/assets"/></dataSet></merger>
